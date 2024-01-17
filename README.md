@@ -21,10 +21,10 @@ Provides insights into the distribution of sentiment scores in the dataset.
 
 
 ## Libraries Used
-pandas__
-numpy__
-matplotlib__
-seaborn
-nltk
-transformers
+pandas\
+numpy\
+matplotlib\
+seaborn\
+nltk\
+transformers\
 scipy
