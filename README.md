@@ -1,4 +1,4 @@
-# sentiment_analysis
+# Sentiment_analysis
 
 ## Overview
 This repository contains code and resources for a sentiment analysis project. Sentiment analysis is a natural language processing (NLP) task that involves determining the sentiment expressed in a piece of text, such as positive, negative, or neutral.
