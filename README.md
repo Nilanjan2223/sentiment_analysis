@@ -8,7 +8,7 @@ This repository contains code and resources for a sentiment analysis project. Se
 Utilizes state-of-the-art pre-trained models for sentiment analysis.
 Integration with Hugging Face Transformers library for easy model loading.
 
-Models that is used:
+Models that is used:__
 "cardiffnlp/twitter-roberta-base-sentiment"
 
 ### Sentiment Analysis Pipeline:
@@ -21,9 +21,9 @@ Provides insights into the distribution of sentiment scores in the dataset.
 
 
 ## Libraries Used
-pandas
-numpy
-matplotlib
+pandas__
+numpy__
+matplotlib__
 seaborn
 nltk
 transformers
