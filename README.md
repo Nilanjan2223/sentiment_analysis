@@ -28,3 +28,7 @@ seaborn\
 nltk\
 transformers\
 scipy
+
+# Acknowledgments
+The sentiment analysis models used in this project are based on Hugging Face Transformers.
+Special thanks to the open-source community for their contributions and support.
